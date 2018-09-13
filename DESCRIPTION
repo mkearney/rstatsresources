@@ -17,3 +17,5 @@ LazyData: true
 project: rstatsresources
 Project: rstatsresources
 title: 🔗🔗 A curated collection of links about rstatsresources
+URL: https://github.com/mkearney/rstatsresources
+BugReports: https://github.com/mkearney/rstatsresources/issues
